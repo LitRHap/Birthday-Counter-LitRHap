@@ -13,7 +13,7 @@ A really simple and elegant looking birthday counter
 #### installation
 
 ```sh
-git clone https://github.com/pavanjadhaw/birthday-counter
+git clone https://github.com/pavanjadhaw/Birthday-Counter-LitRHap
 ```
 
 &nbsp;
@@ -25,8 +25,8 @@ replace name and birthdate
 
 ```js
 6   const config = {
-7     birthdate: 'Jan 29, 2020',
-8     name: 'Darlene'
+7     birthdate: 'Apr 29, 2022',
+8     name: 'LitRHap'
 9   };
 ```
 
@@ -39,7 +39,7 @@ You can deploy it to many free hosting sites
 Deploying to [now.sh](https://zeit.co/home)
 
 ```sh
-$ cd birthday-counter
+$ cd Birthday-Counter-LitRHap
 $ now
 ```
 
@@ -48,7 +48,7 @@ $ now
 Deploying to [surge.sh](https://surge.sh/)
 
 ```sh
-$ cd birthday-counter
+$ cd Birthday-Counter-LitRHap
 $ surge
 ```
 
