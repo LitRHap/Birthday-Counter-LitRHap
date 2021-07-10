@@ -13,7 +13,7 @@ A really simple and elegant looking birthday counter
 #### installation
 
 ```sh
-git clone https://github.com/pavanjadhaw/Birthday-Counter-LitRHap
+git clone https://github.com/LitRHap/Birthday-Counter-LitRHap
 ```
 
 &nbsp;
